@@ -1,7 +1,6 @@
 {
   "name": "pugstagram",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -24,5 +23,14 @@
   },
   "presets": [
     "@babel/preset-env"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecdegois/Pugstagram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jecdegois/Pugstagram/issues"
+  },
+  "homepage": "https://github.com/jecdegois/Pugstagram#readme",
+  "description": ""
 }
