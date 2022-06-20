@@ -34,8 +34,8 @@
       <img src="https://arepa.s3.amazonaws.com/oscar.png" alt="">
     </div>
     <div class="Profile-info">
-      <h2>{nickname}</h2>
-    <span>{name}</span>
+      <h2>Jecdegois</h2>
+    <span>José Castro</span>
     </div>
   </div>
 
